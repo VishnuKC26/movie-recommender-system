@@ -1,0 +1,89 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.env.*
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Caches
+.mypy_cache/
+.pyre/
+.cache/
+*.cache
+
+# Logs
+logs/
+*.log
+
+# Data, models, artifacts (often large / generated)
+data/
+datasets/
+raw_data/
+processed_data/
+models/
+saved_models/
+checkpoints/
+outputs/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.npz
+*.npy
+
+# ML tools
+mlruns/
+runs/
+tensorboard/
+.tensorboard/
+wandb/
+
+# Databases
+*.db
+*.sqlite3
+
+# Secrets / keys
+.env.local
+secrets.*
+*.pem
+*.key
+
+# Misc
+*.tgz
+*.zip

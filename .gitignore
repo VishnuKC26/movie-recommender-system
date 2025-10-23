@@ -1,3 +1,4 @@
+similarity.pkl
 # Byte-compiled / optimized
 __pycache__/
 *.py[cod]
@@ -63,7 +64,6 @@ outputs/
 *.pth
 *.ckpt
 *.joblib
-*.pkl
 *.npz
 *.npy
 

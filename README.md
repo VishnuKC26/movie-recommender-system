@@ -1,7 +1,6 @@
 # 🎬 Movie Recommender System
 
-An intelligent **Movie Recommendation Web App** built using **content-based filtering** on the **TMDB 5000 Movie Dataset**. It analyzes movie metadata (genres, keywords, cast, crew, overview) and recommends **the 5 most similar movies** to the one selected by the user. Deployed live on Heroku 👉 [**Try it here**](https://movrs-vkc-8d37e01f4f9a.herokuapp.com/)
-
+An intelligent **Movie Recommendation Web App** built using **content-based filtering** on the **TMDB 5000 Movie Dataset**. It analyzes movie metadata (genres, keywords, cast, crew, overview) and recommends **the 5 most similar movies** to the one selected by the user. Deployed live on Heroku 👉 [**Try it here**](https://movie-recommender-system-vkc.streamlit.app/)
 ---
 
 ## 🌟 Features

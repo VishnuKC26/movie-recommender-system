@@ -59,7 +59,7 @@ An intelligent **Movie Recommendation Web App** built using **content-based filt
 
 ## 🚀 Live Demo
 
-Deployed on Heroku: **[https://movrs-vkc-8d37e01f4f9a.herokuapp.com/](https://movrs-vkc-8d37e01f4f9a.herokuapp.com/)**
+Deployed on Streamlit: **[https://movie-recommender-system-vkc.streamlit.app/](https://movie-recommender-system-vkc.streamlit.app/)**
 
 ---
 

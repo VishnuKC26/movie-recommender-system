@@ -1,24 +1,24 @@
-# 🎬 Movie Recommender System
+#  Movie Recommender System
 
 An intelligent **Movie Recommendation Web App** built using **content-based filtering** on the **TMDB 5000 Movie Dataset**. It analyzes movie metadata (genres, keywords, cast, crew, overview) and recommends **the 5 most similar movies** to the one selected by the user. Deployed live on Streamlit 👉 [**Try it here**](https://movie-recommender-system-vkc.streamlit.app/)
 ---
 
-## 🌟 Features
+## Features
 
 * 🎥 **Content-Based Recommendations** using:
 
   * **TF-IDF / Count Vectorization** of combined movie metadata
   * **Cosine Similarity** for similarity measurement
-* 🧠 **Smart Tag Generation** combining key features:
+*  **Smart Tag Generation** combining key features:
 
   * Genres, keywords, overview, cast, and crew
-* 🖼️ **Dynamic Posters** fetched via **TMDB API**
-* ☁️ **Deployed on Heroku** for easy access anywhere
-* 🧩 **Interactive Web Interface** — simple, clean, and fast
+*  **Dynamic Posters** fetched via **TMDB API**
+*  **Deployed on Heroku** for easy access anywhere
+*  **Interactive Web Interface** — simple, clean, and fast
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Component      | Technology                                                         |
 | -------------- | ------------------------------------------------------------------ |
@@ -30,7 +30,7 @@ An intelligent **Movie Recommendation Web App** built using **content-based filt
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Data Preparation**
 
@@ -57,13 +57,13 @@ An intelligent **Movie Recommendation Web App** built using **content-based filt
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 Deployed on Streamlit: **[https://movie-recommender-system-vkc.streamlit.app/](https://movie-recommender-system-vkc.streamlit.app/)**
 
 ---
 
-## 📦 Run Locally
+##  Run Locally
 
 ### Prerequisites
 
@@ -105,7 +105,7 @@ Open `http://localhost:5000` (Flask) or the Streamlit URL shown in the terminal.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 movie-recommender-system/
@@ -123,26 +123,26 @@ movie-recommender-system/
 
 ---
 
-## 🧪 Example Recommendation
+##  Example Recommendation
 
 If you select **"The Dark Knight"**, the app might suggest: *Inception, Batman Begins, The Dark Knight Rises, Man of Steel,* and *Iron Man*. Each recommendation includes a poster fetched from TMDB.
 
 ![Movie Poster](static/images/movie-recommender-system_ss.png)
 
 
-## 🧾 License
+##  License
 
 This project is released under the **MIT License**.
 
 ---
 
-## 🧑‍🎓 Author
+##  Author
 
 **Vishnu Kant** — GitHub: [@VishnuKC26](https://github.com/VishnuKC26)
 
 ---
 
-## 🔗 Acknowledgements
+##  Acknowledgements
 
 * TMDB 5000 Movie Dataset (Kaggle)
 * The Movie Database (TMDB) API
